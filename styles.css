@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+   body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 40px;
+        }
+
+        .quiz-container {
+            display: inline-block;
+            text-align: left;
+            background: #f8fffe;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .quote {
+            max-width: 600px;
+            margin: 10px auto;
+            padding: 15px;
+            border-left: 8px solid green;
+            background-color: #f8fffe;
+            font-weight: bold;
+        }
